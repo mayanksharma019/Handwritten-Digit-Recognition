@@ -15,7 +15,7 @@ List of dependencies for running this application.
  
  ## DEMO
  
-  * **Taking input as an image**<br />
+  #####  Taking input as an image<br />
    ![image1](https://github.com/mayanksharma019/Handwritten-Digit-Recognition/blob/master/Images/3.jpg)
  
  
