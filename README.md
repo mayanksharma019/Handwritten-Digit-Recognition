@@ -5,9 +5,17 @@ MNIST is a widely used dataset for the hand-written digit classification task. I
 ![mnist](https://github.com/mayanksharma019/Handwritten-Digit-Recognition/blob/master/Images/mnist.png)
 
 ## Dependencies
-Keras
-tensorflow
-Opencv
-Pandas
-Numpy
-Matplotlib
+List of dependencies for running this application.
+ * **Keras**
+ * **tensorflow**
+ * **Opencv**
+ * **Pandas**
+ * **Numpy**
+ * **Matplotlib**
+ 
+ ## DEMO
+ 
+  * **Taking input as an image**<br />
+   ![image1](https://github.com/mayanksharma019/Handwritten-Digit-Recognition/blob/master/Images/3.jpg)
+ 
+ 
